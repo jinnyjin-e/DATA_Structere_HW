@@ -1,4 +1,4 @@
-# DATA_Structere_HW
+# DATA_Structure_HW
 
 자료구조 강의의 과제 code 입니다.
 
